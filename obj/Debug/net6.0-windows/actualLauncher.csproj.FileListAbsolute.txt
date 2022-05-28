@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\bin\Debug\net6.0-windows\actualLauncher.exe
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\bin\Debug\net6.0-windows\actualLauncher.deps.json
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\bin\Debug\net6.0-windows\actualLauncher.runtimeconfig.json
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\bin\Debug\net6.0-windows\actualLauncher.dll
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\bin\Debug\net6.0-windows\actualLauncher.pdb
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\actualLauncher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\actualLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\actualLauncher.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\actualLauncher.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\actualLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\actualLauncher.dll
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\refint\actualLauncher.dll
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\actualLauncher.pdb
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\actualLauncher.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\modding projects\actualLauncher\obj\Debug\net6.0-windows\ref\actualLauncher.dll

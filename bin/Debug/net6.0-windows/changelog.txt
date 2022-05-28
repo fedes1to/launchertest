@@ -1,0 +1,218 @@
+Beta 1.5.1 (up-to-date)
+
+Beta 1.5.1 changelog:
+Fixed the server issues.
+
+--------------OUTDATED:--------------
+
+Beta 1.5 changelog:
+Added 7 weapons:
+ - Sniper Rifle
+ - Golden Friend(UP0)
+ - Signal Pistol
+ - Hunger Bow
+ - Last Kiss
+ - Dater Hater
+ - Lucky Strike
+A lot of the user interface has been replaced with it's PGW counterpart.
+New Space Desert lobby.
+Added Heaven Garden.
+New map selection ui.
+Also you need to grind for coins now, you don't get everything for free.
+New shop system.
+Scopes render corrently now.
+The profile animations have been added to all weapons.
+Some weapons have been removed.
+The performance on some maps have improved.
+Changed the camera angle for some weapons.
+The Dark Swords and the Light Swords now have a jump boost.
+A simple anti-cheat has been added.
+Headshots have been debuffed from 2.5x to 1.75x.
+A lot of other weapon have new balancing changes now.
+The white fade now appears when you die.
+The game is a bit more optimized now.
+The fire-rate for some weapons have been changed.
+Some bugs have been fixed.
+You can no longer play with people on 4.7.1 or people on previous versions of PGI.
+Some other changes have been made.
+
+
+Beta 1.4.2 changelog:
+The game has a lot more optimizations now so the performance is way better on mobile now.
+Some bugs have been fixed.
+
+Beta 1.4.1 changelog: 
+Android version is now available.
+The Dragon Bow has been added!
+Some bug fixes.
+Some unrelated issues have been fixed.
+The skin texture for singleplayer modes have been changed to the normal 64x32 skin from the bilinear scaled 500x500 skin.
+Some ui changes have been made.
+New app icon.
+The lighting has been improved on some maps.
+Your ammo gets refilled after death.
+Some other changes have been made.
+
+Beta 1.4 changelog: 
+Some of the PGW ui has been added.
+The map Big Barge has been added.
+The lobby and lobby music has been changed.
+The skin editor now has mouse support.
+There have been other ui changes too.
+A lot of bugs have been fixed.
+The skin editor music has been added.
+6 new weapons have been added: 
+ - Brave Patriot
+ - Old Comrade
+ - Water Spirit
+ - Jamaican Madness
+ - Sea Devil
+ - Mr. Ice
+4 maps have been added to the team fight gamemode: 
+ - Mining Camp
+ - Isla de la Muerte
+ - Space Desert
+ - Big Barge
+Some maps now have a higher quality loading image.
+Many maps now have better lighting.
+Bullet trails have been improved.
+Added flamethrowers.
+Added heavy weapons.
+Added the category system.
+The performance have been improved on some maps.
+You have to wait through the reload animation to reload now.
+Theres now a small delay between switching weapons.
+The angel that appers when a player dies have been updated.
+Some small balacing changes.
+New weapon effects have been added.
+The tutorial has been disabled it will be improved and available again in a future update.
+You can't see names through walls now.
+Some other small changes have been made.
+
+Beta 1.3.2 changelog: 
+Fixed a bug where the game would sometimes crash on startup.
+
+Beta 1.3.1 changelog: 
+Fixed a bug where the cursor would become invisible.
+Fixed a bug where you would sometimes get stuck inside of the portals in area 52(PGW).
+Fixed a bug releated to the discord rpc support.
+Some other small changes have been made.
+
+Beta 1.3 changelog: 
+Added 2 new maps: 
+ - Mining Camp
+ - Mafia Mansion (Later known as mafia cottage)
+Added 2 new weapons: 
+ - Blackbeard's Pistols
+ - Umbrella Shotgun
+New sword trials for some weapons.
+New graphical effects for guns.
+Better optimization on the lowest graphical setting(fastest).
+A lot of maps lighting have been improved, too many for me to remember.
+A lot of maps have new graphical effects.
+A lot of important(and small) bugs have been fixed now.
+It now has some small discord rich presence support which will probably be improved in the future.
+Now the game has the parkour city main menu/lobby from PGW, and music.
+The portals in area52 show a realtime view of the other side on some graphical quality settings.
+The King's Crown has been replaced with the Crown Of Discoverer's from PGW.
+A lot of small other changes have been made.
+
+Beta 1.2.2 changelog: 
+Fixed a bug that would happen when a player left a match.
+The new graphic effects from 1.2 only appear when you are on the 2 highest graphical quality settings.
+Lighting has been improved on some maps to make them more like the originals
+Also some maps now have some new effects.
+Some other small changes have been made.
+
+Beta 1.2.1 Changelog: 
+A small bug has been fixed on the map kung fu village.
+
+Beta 1.2 Changelog:
+Area 52(PGW Version) has been added.
+The secret forces rifle and light swords have been added.
+The camera control has been improved. 
+Some maps now have some new graphical effects: 
+ - Isla de la Muerte
+ - Space Desert
+ - Kung fu village
+ - Train Depot
+ - Paradise Resort
+ - Bridge
+ - Winter Wonderland
+ - Nuclear City
+ - Parkour City
+ - Warehouse Assault
+ - Training map/Tutorial map
+Some bugs have been fixed.
+Some other small changes have been made.
+Train depot has been added to coop/time survival.
+
+Beta 1.1 Changelog:
+Some basic controller support has been added.
+4 new maps have been added: 
+ - Walking Fortresses(PG3D Version)
+ - Atlantis
+ - Ant's Life
+ - Science Lab
+3 new weapons have been added: 
+ - Hellraiser
+ - Silver's Musket
+ - Sparrow's Sabre
+Some weapon balancing changes.
+Some bug fixes.
+Trampoline now works in inside the code.
+The ladder on Isla de la Muerte now works.
+Some small graphical improvements have been made to some maps.
+The Sound FX on some maps have been fixed. 
+
+This release is a beta version not a demo version.
+New update changelog:
+Campaing is now available.
+The coop modes have been added(team battle and time survival)
+Parkour city has been added to time survival.
+Multiple maps have been added to deathmatch mode which are:
+ - Isla de la Muerte
+ - Train Depot
+ - D-Day
+ - City (Aka City of the Dead)
+ - Inside the Code
+ - Paradise Resort
+4 Weapons from Pixel Gun World has been added:
+ - Dark Swords
+ - Morgan's Arquebus
+ - Golden Friend up1
+ - Life Snatcher
+The lighting on alot of maps have been improved.
+The theme has been changed from winter utopia to Isla de la Muerte themed.
+The main menu music has been changed to PGW pirate lobby theme.
+Chat now works properly, you can send and receive.
+Alot and i mean ALOT of bugs have been fixed too many to list.
+General stability has been improved.
+The loading screen has been changed.
+Many other small improvments to maps have been made.
+The map Space Desert has been heavily improved, lighting, fixed some objects that did not appear, now the laser doors also work.
+
+demo (outdated)
+
+WARNING: This content may potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised
+
+ --- FAQ ---
+
+ * What platform is this demo for?
+   - Windows 10
+ * Why did you release a demo not the full version with everything?
+   - I chose to release a demo with limited content because some of the thing not inclouded does not work properly and i deem that unplayable.
+ * Can i play the custom maps like Kung Fu Village or Nuclear City with people on mobile?
+   - No you can't play the custom map with people on mobile.
+ * Is it cross platform?
+   - Yes it is you can play all maps that are available on mobile but not the pc custom maps.
+
+ --- Controls ---
+Move using the ASDW keys.
+Use the F1 key to lock/unlock the mouse cursor.
+Use the F2 key to calibrate the camera controls(Please do not move the cursor when calibrating).
+If you fail to calibrate the camera controls you can just try again using the F2 keys.
+Use the space key to jump.
+Use the left mouse button to shoot.
+Use the escape key to open the pause menu.
+Remember to unlock the cursor when in the pause menu!
